@@ -2,7 +2,6 @@
 require('cypress-xpath')
 let tiempo=1000
 
-
 describe('Casos Paris.cl', () =>{ 
     
   beforeEach(()=>{    
